@@ -1,4 +1,0 @@
-commande à activer pour reconstruire le site
-C:\Users\gouello\Documents\GitHub\mediumish-theme-jekyll>bundle exec jekyll serve --livereload
-
-Ensuite faire un push
