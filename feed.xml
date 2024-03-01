@@ -5,221 +5,160 @@
     <description>Tout doit disparaitre!!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Feb 2024 16:16:10 -0500</pubDate>
-    <lastBuildDate>Mon, 26 Feb 2024 16:16:10 -0500</lastBuildDate>
+    <pubDate>Fri, 01 Mar 2024 09:41:22 -0500</pubDate>
+    <lastBuildDate>Fri, 01 Mar 2024 09:41:22 -0500</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>Moniteur d&apos;ordinateur 23 pouces</title>
-        <description>&lt;p&gt;Ecran de PC 23 pouces de diagonale (58.4 cm), ration 16:9, résolution 1920 x 1080 (full 1080p), rafraichissement 5 milliseconds
-Entrées HDMI, DVI&lt;/p&gt;
-
+        <title>Sèche-linge - sécheuse - LG</title>
+        <description>
 </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/%C3%89cran-Asus-IPS/</link>
-        <guid isPermaLink="true">http://localhost:4000/%C3%89cran-Asus-IPS/</guid>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/secheuse/</link>
+        <guid isPermaLink="true">http://localhost:4000/secheuse/</guid>
         
         
-        <category>bureau</category>
-        
-        <category>salon</category>
-        
-        <category>electronique</category>
+        <category>electro</category>
         
       </item>
     
       <item>
-        <title>Moniteur d&apos;ordinateur 17 pouces</title>
-        <description>&lt;p&gt;LCD
-Type:	TFT Active Matrix SXGA LCD
-Display Area:	17 inch
-Optimum Resolution:	1280x1024
-Contrast Ratio:	500:1 (typical), 1 (maximum)
-Brightness:	300 cd/m2 (typ)
-Viewing Angles:	150° horizontal, 135° vertical
-Response Time:	8ms
-Panel Surface:	Anti-glare&lt;/p&gt;
-
-&lt;p&gt;VIDEO INPUT
-Analog:	RGB Analog (75 ohms, 0.7/1.0 Vp-p)
-Frequency:	Fh: 22-82KHz; Fv: 55-77Hz
-Sync:	H/V separated&lt;/p&gt;
-
-&lt;p&gt;COMPATIBILITY
-PC:	VGA up to 1280x1024 non-interlaced
-Mac:	Power Mac, up to 1280 x 1024&lt;/p&gt;
-
-&lt;p&gt;CONNECTOR
-Analog:	15 pin mini D-sub x1
-Power:	Built-in power Adapter, 3-Pin plug&lt;/p&gt;
-
-&lt;p&gt;AUDIO
-Speakers:	0.5w x 2&lt;/p&gt;
-
-&lt;p&gt;POWER
-Voltage:	100-240VAC; 50/60Hz (Switch)
-Consumption:	36W (typ.)&lt;/p&gt;
-
-&lt;p&gt;CONTROLS
-Basic:	[1], [Down], [Up], [2], Soft power button, Mute
-OSD:	Auto Image Adjust, Contrast, Brightness, Color Adjust (9300K, 6500K-default,User Color R. G. B) Manual Image Adjust (H. Size, H. Position, V. Position, Fine Tune, Sharpness) Setup Menu Language (English, French, German, Italian, Spanish, Russian, Japanese,Traditional Chinese, Simplified Chinese), OSD Position, OSD Timeout, RECALL&lt;/p&gt;
-
-&lt;p&gt;OPERATING CONDITIONS
-Temperature:	0°C - 40°C (32°F - 104°F)
-Humidity:	10% - 90% (non-condensed)&lt;/p&gt;
-
-&lt;p&gt;DIMENSIONS
-Physical:	375mm (width) x 372mm (height) x 160mm (depth)
-WEIGHT
-Net:	4.2 kg&lt;/p&gt;
-
+        <title>Perceuse visseuse sans fil</title>
+        <description>
 </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/%C3%89cran-17-pouces/</link>
-        <guid isPermaLink="true">http://localhost:4000/%C3%89cran-17-pouces/</guid>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/perceuse-visseuse-sans-fil/</link>
+        <guid isPermaLink="true">http://localhost:4000/perceuse-visseuse-sans-fil/</guid>
         
         
-        <category>bureau</category>
-        
-        <category>salon</category>
-        
-        <category>electronique</category>
+        <category>bricolage</category>
         
       </item>
     
       <item>
-        <title>table basse</title>
-        <description>&lt;p&gt;Longueur : 118cm
-Largeur : 78 cm&lt;/p&gt;
+        <title>Machine à laver - laveuse - LG</title>
+        <description>
+</description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/laveuse/</link>
+        <guid isPermaLink="true">http://localhost:4000/laveuse/</guid>
+        
+        
+        <category>electro</category>
+        
+      </item>
+    
+      <item>
+        <title>Lampe de chevet</title>
+        <description>&lt;p&gt;hauteur 30cm
+diamètre 16cm
+ampoule rouge incluses&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/tablebasse/</link>
-        <guid isPermaLink="true">http://localhost:4000/tablebasse/</guid>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/lampechevet/</link>
+        <guid isPermaLink="true">http://localhost:4000/lampechevet/</guid>
         
         
         <category>salon</category>
+        
+        <category>chambre</category>
         
         <category>meuble</category>
         
       </item>
     
       <item>
-        <title>Sodastream</title>
-        <description>&lt;p&gt;Transformez votre eau ordinaire en eau agréablement pétillante en quelques secondes selon votre goût avec ses voyants lumineux. Ajoutez-y un sirop pour remplacer vos sodas avec les calories en moins. Fonctionnant sans électricité, et donc, sans corde, c’est un appareil très facile à utiliser et à ranger n’importe où. Une bouteille de gazéification réutilisable et un cylindre de 60 L de CO2 sont inclus dans l’emballage. Utiliser une machine Sodastream aide également la planète en réduisant l’utilisation de bouteille d’eau en plastique.&lt;/p&gt;
-
+        <title>fer à repasser + planche</title>
+        <description>
 </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/sodastream/</link>
-        <guid isPermaLink="true">http://localhost:4000/sodastream/</guid>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/fer/</link>
+        <guid isPermaLink="true">http://localhost:4000/fer/</guid>
         
         
-        <category>cuisine</category>
-        
-        <category>accessoires</category>
+        <category>electro</category>
         
       </item>
     
       <item>
-        <title>Robot patisser Artisan de KitchenAid</title>
-        <description>&lt;p&gt;Préparez des aliments plus facilement dans la cuisine avec le fameux batteur sur socle Artisan de KitchenAid. Ce puissant mélangeur est doté d’un moteur de 325 W et de dix réglages de vitesse pour vous aider à fouetter, mélanger et plus encore en toute confiance. L’ensemble comprend plusieurs accessoires polyvalents, comme un crochet pétrisseur et un fouet métallique, pour vous donner plus de liberté quand vous cuisinez.&lt;/p&gt;
+        <title>etendoir à linge</title>
+        <description>&lt;p&gt;hauteur 160cm
+Longueur 70cm
+largeur 70cm&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/robot-patissier/</link>
-        <guid isPermaLink="true">http://localhost:4000/robot-patissier/</guid>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/etendoir/</link>
+        <guid isPermaLink="true">http://localhost:4000/etendoir/</guid>
         
         
-        <category>cuisine</category>
-        
-        <category>accessoires</category>
+        <category>accessoire</category>
         
       </item>
     
       <item>
-        <title>Robot culinaire </title>
-        <description>&lt;p&gt;Robot culinaire de grande capacité (12 tasses)
-rape, tranche, mixe, mélange
-Tous les accessoires passent au lave vaisselle&lt;/p&gt;
+        <title>Petit coffre en bois</title>
+        <description>&lt;p&gt;hauteur 41cm
+Longueur 75cm
+largeur 35cm&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/robot-culinaire/</link>
-        <guid isPermaLink="true">http://localhost:4000/robot-culinaire/</guid>
-        
-        
-        <category>cuisine</category>
-        
-        <category>accessoires</category>
-        
-      </item>
-    
-      <item>
-        <title>repose-pied</title>
-        <description>&lt;p&gt;longueur : 78cm
-largeur : 61cm
-hauteur : 42cm&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/reposepied/</link>
-        <guid isPermaLink="true">http://localhost:4000/reposepied/</guid>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/coffre/</link>
+        <guid isPermaLink="true">http://localhost:4000/coffre/</guid>
         
         
         <category>salon</category>
+        
+        <category>chambre</category>
         
         <category>meuble</category>
         
       </item>
     
       <item>
-        <title>lot de puzzles et jeu</title>
-        <description>&lt;p&gt;Lot de 6 puzzles de 500, 1000 et 2000 pièces en très bon état + jeu contrast neuf.&lt;/p&gt;
+        <title>chaises de jardin Adirondack</title>
+        <description>&lt;p&gt;En plastique rouge&lt;/p&gt;
 </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/puzzle/</link>
-        <guid isPermaLink="true">http://localhost:4000/puzzle/</guid>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/chaisejardin/</link>
+        <guid isPermaLink="true">http://localhost:4000/chaisejardin/</guid>
         
         
-        <category>loisir</category>
+        <category>jardin</category>
+        
+      </item>
+    
+      <item>
+        <title>chaise de bureau pour enfant</title>
+        <description>
+</description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/chaiseenfant/</link>
+        <guid isPermaLink="true">http://localhost:4000/chaiseenfant/</guid>
+        
+        
+        <category>bureau</category>
+        
+        <category>chambre</category>
         
         <category>enfant</category>
         
       </item>
     
       <item>
-        <title>Lampe sur pied</title>
-        <description>&lt;p&gt;2 éclairages, 2 prises
-176cm
-ampoules incluses&lt;/p&gt;
-
+        <title>Souris sans fil Logitech MX Master</title>
+        <description>&lt;p&gt;Souris sans fil haut de gamme, fonctionne parfaitement&lt;/p&gt;
 </description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/lampe2/</link>
-        <guid isPermaLink="true">http://localhost:4000/lampe2/</guid>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/Souris-Logitech-Mx-Master/</link>
+        <guid isPermaLink="true">http://localhost:4000/Souris-Logitech-Mx-Master/</guid>
         
         
-        <category>salon</category>
+        <category>bureau</category>
         
-        <category>meuble</category>
-        
-      </item>
-    
-      <item>
-        <title>Lampe sur pied</title>
-        <description>&lt;p&gt;2 éclairages, 1 prise
-176cm
-ampoules incluses&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/lampe1/</link>
-        <guid isPermaLink="true">http://localhost:4000/lampe1/</guid>
-        
-        
-        <category>salon</category>
-        
-        <category>meuble</category>
+        <category>electronique</category>
         
       </item>
     
