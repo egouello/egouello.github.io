@@ -5,9 +5,28 @@
     <description>Tout doit disparaitre!!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Mar 2024 09:41:22 -0500</pubDate>
-    <lastBuildDate>Fri, 01 Mar 2024 09:41:22 -0500</lastBuildDate>
+    <pubDate>Sat, 09 Mar 2024 18:36:05 -0500</pubDate>
+    <lastBuildDate>Sat, 09 Mar 2024 18:36:05 -0500</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Table et 2 bancs de jardin</title>
+        <description>&lt;p&gt;En aluminium&lt;/p&gt;
+
+&lt;p&gt;Dimension table : 160cm x 99cm (8 places)&lt;/p&gt;
+
+&lt;p&gt;Dimension banc : 127 cm x 36cm (3 places)&lt;/p&gt;
+
+&lt;p&gt;Démontable&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/setjardin/</link>
+        <guid isPermaLink="true">http://localhost:4000/setjardin/</guid>
+        
+        
+        <category>jardin</category>
+        
+      </item>
     
       <item>
         <title>Sèche-linge - sécheuse - LG</title>
@@ -32,6 +51,26 @@
         
         
         <category>bricolage</category>
+        
+      </item>
+    
+      <item>
+        <title>Ordinateur de bureau</title>
+        <description>&lt;p&gt;Processeur G3420 3.2Ghz
+RAM : 12Go DDR3
+Disque dur SSD 1To
+Carte mère : ASUS H81M-A
+Config encore très suffisante pour un usage bureautique, navigation Web, multimédia
+Pas adaptée pour du jeu par contre&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/ordi/</link>
+        <guid isPermaLink="true">http://localhost:4000/ordi/</guid>
+        
+        
+        <category>bureau</category>
+        
+        <category>electronique</category>
         
       </item>
     
@@ -65,6 +104,25 @@ ampoule rouge incluses&lt;/p&gt;
         <category>chambre</category>
         
         <category>meuble</category>
+        
+      </item>
+    
+      <item>
+        <title>jardinieres de balcon</title>
+        <description>&lt;p&gt;en plastique. 2 verts, 2 rouges, 2 blancs&lt;/p&gt;
+
+&lt;p&gt;Contient un réservoir d’eau&lt;/p&gt;
+
+&lt;p&gt;Se pose à cheval sur un rebord de terrasse&lt;/p&gt;
+
+&lt;p&gt;Dimensions : 65cm(L) x 30cm(l) x 25cm(h)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/jardiniere/</link>
+        <guid isPermaLink="true">http://localhost:4000/jardiniere/</guid>
+        
+        
+        <category>jardin</category>
         
       </item>
     
@@ -114,51 +172,6 @@ largeur 35cm&lt;/p&gt;
         <category>chambre</category>
         
         <category>meuble</category>
-        
-      </item>
-    
-      <item>
-        <title>chaises de jardin Adirondack</title>
-        <description>&lt;p&gt;En plastique rouge&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/chaisejardin/</link>
-        <guid isPermaLink="true">http://localhost:4000/chaisejardin/</guid>
-        
-        
-        <category>jardin</category>
-        
-      </item>
-    
-      <item>
-        <title>chaise de bureau pour enfant</title>
-        <description>
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/chaiseenfant/</link>
-        <guid isPermaLink="true">http://localhost:4000/chaiseenfant/</guid>
-        
-        
-        <category>bureau</category>
-        
-        <category>chambre</category>
-        
-        <category>enfant</category>
-        
-      </item>
-    
-      <item>
-        <title>Souris sans fil Logitech MX Master</title>
-        <description>&lt;p&gt;Souris sans fil haut de gamme, fonctionne parfaitement&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/Souris-Logitech-Mx-Master/</link>
-        <guid isPermaLink="true">http://localhost:4000/Souris-Logitech-Mx-Master/</guid>
-        
-        
-        <category>bureau</category>
-        
-        <category>electronique</category>
         
       </item>
     
