@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about",
     "title": "Nous contacter",
-    "body": "Ce site présente tout ce que nous vendons pour notre déménagement en juillet 2024. Pour acheter un article, contacter Erwan erwan. gouello@stanislas. qc. ca ou Frédérique "
+    "body": "Ce site présente tout ce que nous vendons pour notre déménagement en juillet 2024. Pour acheter un article, contacter Erwan erwan. gouello@stanislas. qc. ca ou Frédérique Revenez sur le site car des nouveaux articles seront ajoutés au fur et à mesure. Les articles vendus et réservés seront enlevés du site donc si vous voyez un article, c'est qu'il est disponible. . . "
     }, {
     "id": 2,
     "url": "http://localhost:4000/categories",
