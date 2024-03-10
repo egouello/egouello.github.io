@@ -5,8 +5,8 @@
     <description>Tout doit disparaitre!!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Mar 2024 18:39:03 -0500</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2024 18:39:03 -0500</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2024 17:09:00 -0400</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2024 17:09:00 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -71,6 +71,25 @@ Pas adaptée pour du jeu par contre&lt;/p&gt;
         <category>bureau</category>
         
         <category>electronique</category>
+        
+      </item>
+    
+      <item>
+        <title>Manteau d&apos;hiver pour homme</title>
+        <description>&lt;p&gt;Manteau d’hiver long. Bien chaud.&lt;/p&gt;
+
+&lt;p&gt;Acheté en décembre 22 (a fait 2 hivers) chez Simons&lt;/p&gt;
+
+&lt;p&gt;Plein de poches intérieures et extérieures, doublure synthétique 3M thinsulate&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/manteau/</link>
+        <guid isPermaLink="true">http://localhost:4000/manteau/</guid>
+        
+        
+        <category>vêtement</category>
+        
+        <category>hiver</category>
         
       </item>
     
@@ -152,26 +171,6 @@ largeur 70cm&lt;/p&gt;
         
         
         <category>accessoire</category>
-        
-      </item>
-    
-      <item>
-        <title>Petit coffre en bois</title>
-        <description>&lt;p&gt;hauteur 41cm
-Longueur 75cm
-largeur 35cm&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/coffre/</link>
-        <guid isPermaLink="true">http://localhost:4000/coffre/</guid>
-        
-        
-        <category>salon</category>
-        
-        <category>chambre</category>
-        
-        <category>meuble</category>
         
       </item>
     
