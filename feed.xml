@@ -5,28 +5,9 @@
     <description>Tout doit disparaitre!!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Mar 2024 17:20:55 -0400</pubDate>
-    <lastBuildDate>Sun, 10 Mar 2024 17:20:55 -0400</lastBuildDate>
+    <pubDate>Sun, 10 Mar 2024 22:46:03 -0400</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2024 22:46:03 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
-    
-      <item>
-        <title>Table et 2 bancs de jardin</title>
-        <description>&lt;p&gt;En aluminium&lt;/p&gt;
-
-&lt;p&gt;Dimension table : 160cm x 99cm (8 places)&lt;/p&gt;
-
-&lt;p&gt;Dimension banc : 127 cm x 36cm (3 places)&lt;/p&gt;
-
-&lt;p&gt;Démontable&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/setjardin/</link>
-        <guid isPermaLink="true">http://localhost:4000/setjardin/</guid>
-        
-        
-        <category>jardin</category>
-        
-      </item>
     
       <item>
         <title>Sèche-linge - sécheuse - LG</title>
@@ -146,19 +127,6 @@ ampoule rouge incluses&lt;/p&gt;
       </item>
     
       <item>
-        <title>fer à repasser + planche</title>
-        <description>
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/fer/</link>
-        <guid isPermaLink="true">http://localhost:4000/fer/</guid>
-        
-        
-        <category>electro</category>
-        
-      </item>
-    
-      <item>
         <title>etendoir à linge</title>
         <description>&lt;p&gt;hauteur 160cm
 Longueur 70cm
@@ -171,6 +139,39 @@ largeur 70cm&lt;/p&gt;
         
         
         <category>accessoire</category>
+        
+      </item>
+    
+      <item>
+        <title>Petit coffre en bois</title>
+        <description>&lt;p&gt;hauteur 41cm
+Longueur 75cm
+largeur 35cm&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/coffre/</link>
+        <guid isPermaLink="true">http://localhost:4000/coffre/</guid>
+        
+        
+        <category>salon</category>
+        
+        <category>chambre</category>
+        
+        <category>meuble</category>
+        
+      </item>
+    
+      <item>
+        <title>chaises de jardin Adirondack</title>
+        <description>&lt;p&gt;En plastique rouge&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/chaisejardin/</link>
+        <guid isPermaLink="true">http://localhost:4000/chaisejardin/</guid>
+        
+        
+        <category>jardin</category>
         
       </item>
     
