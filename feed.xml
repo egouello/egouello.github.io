@@ -5,8 +5,8 @@
     <description>Tout doit disparaitre!!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Mar 2024 09:54:15 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Mar 2024 09:54:15 -0400</lastBuildDate>
+    <pubDate>Wed, 13 Mar 2024 20:49:27 -0400</pubDate>
+    <lastBuildDate>Wed, 13 Mar 2024 20:49:27 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -163,15 +163,19 @@ largeur 35cm&lt;/p&gt;
       </item>
     
       <item>
-        <title>chaises de jardin Adirondack</title>
-        <description>&lt;p&gt;En plastique rouge&lt;/p&gt;
+        <title>chaise de bureau pour enfant</title>
+        <description>
 </description>
         <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/chaisejardin/</link>
-        <guid isPermaLink="true">http://localhost:4000/chaisejardin/</guid>
+        <link>http://localhost:4000/chaiseenfant/</link>
+        <guid isPermaLink="true">http://localhost:4000/chaiseenfant/</guid>
         
         
-        <category>jardin</category>
+        <category>bureau</category>
+        
+        <category>chambre</category>
+        
+        <category>enfant</category>
         
       </item>
     
