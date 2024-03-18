@@ -129,10 +129,6 @@
 <lastmod>2024-02-29T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/perceuse-visseuse-sans-fil/</loc>
-<lastmod>2024-02-29T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/secheuse/</loc>
 <lastmod>2024-02-29T00:00:00-05:00</lastmod>
 </url>
@@ -174,6 +170,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/vendu/2024-02-29-fer/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/vendu/2024-02-29-perceuse%20visseuse%20sans%20fil/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/vendu/2024-02-29-setjardin/</loc>
@@ -234,8 +233,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/v%C3%AAtement/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/category/bricolage/</loc>
 </url>
 </urlset>
