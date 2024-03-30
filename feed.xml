@@ -5,8 +5,8 @@
     <description>Tout doit disparaitre!!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Mar 2024 20:22:44 -0400</pubDate>
-    <lastBuildDate>Fri, 29 Mar 2024 20:22:44 -0400</lastBuildDate>
+    <pubDate>Fri, 29 Mar 2024 21:25:28 -0400</pubDate>
+    <lastBuildDate>Fri, 29 Mar 2024 21:25:28 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -115,42 +115,6 @@ ampoule rouge incluses&lt;/p&gt;
       </item>
     
       <item>
-        <title>etendoir à linge</title>
-        <description>&lt;p&gt;hauteur 160cm
-Longueur 70cm
-largeur 70cm&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/etendoir/</link>
-        <guid isPermaLink="true">http://localhost:4000/etendoir/</guid>
-        
-        
-        <category>accessoire</category>
-        
-      </item>
-    
-      <item>
-        <title>Petit coffre en bois</title>
-        <description>&lt;p&gt;hauteur 41cm
-Longueur 75cm
-largeur 35cm&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/coffre/</link>
-        <guid isPermaLink="true">http://localhost:4000/coffre/</guid>
-        
-        
-        <category>salon</category>
-        
-        <category>chambre</category>
-        
-        <category>meuble</category>
-        
-      </item>
-    
-      <item>
         <title>chaise de bureau pour enfant</title>
         <description>
 </description>
@@ -182,6 +146,86 @@ Idéal pour en faire un home server Linux ou Windows, je l’utilise comme serve
         <category>bureau</category>
         
         <category>electronique</category>
+        
+      </item>
+    
+      <item>
+        <title>Moniteur d&apos;ordinateur 17 pouces</title>
+        <description>&lt;p&gt;LCD
+Type:	TFT Active Matrix SXGA LCD
+Display Area:	17 inch
+Optimum Resolution:	1280x1024
+Contrast Ratio:	500:1 (typical), 1 (maximum)
+Brightness:	300 cd/m2 (typ)
+Viewing Angles:	150° horizontal, 135° vertical
+Response Time:	8ms
+Panel Surface:	Anti-glare&lt;/p&gt;
+
+&lt;p&gt;VIDEO INPUT
+Analog:	RGB Analog (75 ohms, 0.7/1.0 Vp-p)
+Frequency:	Fh: 22-82KHz; Fv: 55-77Hz
+Sync:	H/V separated&lt;/p&gt;
+
+&lt;p&gt;COMPATIBILITY
+PC:	VGA up to 1280x1024 non-interlaced
+Mac:	Power Mac, up to 1280 x 1024&lt;/p&gt;
+
+&lt;p&gt;CONNECTOR
+Analog:	15 pin mini D-sub x1
+Power:	Built-in power Adapter, 3-Pin plug&lt;/p&gt;
+
+&lt;p&gt;AUDIO
+Speakers:	0.5w x 2&lt;/p&gt;
+
+&lt;p&gt;POWER
+Voltage:	100-240VAC; 50/60Hz (Switch)
+Consumption:	36W (typ.)&lt;/p&gt;
+
+&lt;p&gt;CONTROLS
+Basic:	[1], [Down], [Up], [2], Soft power button, Mute
+OSD:	Auto Image Adjust, Contrast, Brightness, Color Adjust (9300K, 6500K-default,User Color R. G. B) Manual Image Adjust (H. Size, H. Position, V. Position, Fine Tune, Sharpness) Setup Menu Language (English, French, German, Italian, Spanish, Russian, Japanese,Traditional Chinese, Simplified Chinese), OSD Position, OSD Timeout, RECALL&lt;/p&gt;
+
+&lt;p&gt;OPERATING CONDITIONS
+Temperature:	0°C - 40°C (32°F - 104°F)
+Humidity:	10% - 90% (non-condensed)&lt;/p&gt;
+
+&lt;p&gt;DIMENSIONS
+Physical:	375mm (width) x 372mm (height) x 160mm (depth)
+WEIGHT
+Net:	4.2 kg&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/%C3%89cran-17-pouces/</link>
+        <guid isPermaLink="true">http://localhost:4000/%C3%89cran-17-pouces/</guid>
+        
+        
+        <category>bureau</category>
+        
+        <category>salon</category>
+        
+        <category>electronique</category>
+        
+      </item>
+    
+      <item>
+        <title>vélo femme</title>
+        <description>&lt;p&gt;Vélo Norco Yorkville - Taille S (taille recommandée 153-163 cm)&lt;/p&gt;
+
+&lt;p&gt;Cadre et fourche en aluminium&lt;/p&gt;
+
+&lt;p&gt;3 plateaux, 7 pignons, dérailleur Shimano Tourney&lt;/p&gt;
+
+&lt;p&gt;Quelques points de rouille sur les rayons des roues et sur quelques boulons du guidon mais le vélo est en bon état. On fera un petit tune up avant de le vendre.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/velo-femme/</link>
+        <guid isPermaLink="true">http://localhost:4000/velo-femme/</guid>
+        
+        
+        <category>sport</category>
+        
+        <category>loisir</category>
         
       </item>
     

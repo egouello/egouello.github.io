@@ -85,14 +85,6 @@
 <lastmod>2024-02-29T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/coffre/</loc>
-<lastmod>2024-02-29T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/etendoir/</loc>
-<lastmod>2024-02-29T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/jardiniere/</loc>
 <lastmod>2024-02-29T00:00:00-05:00</lastmod>
 </url>
@@ -180,6 +172,12 @@
 <loc>http://localhost:4000/_pages/vendu/2024-02-29-chaisejardin/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/vendu/2024-02-29-coffre/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/vendu/2024-02-29-etendoir/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/vendu/2024-02-29-fer/</loc>
 </url>
 <url>
@@ -232,9 +230,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/chambre/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/category/accessoire/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/category/jardin/</loc>
