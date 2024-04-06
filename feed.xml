@@ -5,8 +5,8 @@
     <description>Tout doit disparaitre!!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Mar 2024 22:32:02 -0400</pubDate>
-    <lastBuildDate>Fri, 29 Mar 2024 22:32:02 -0400</lastBuildDate>
+    <pubDate>Sat, 06 Apr 2024 16:32:02 -0400</pubDate>
+    <lastBuildDate>Sat, 06 Apr 2024 16:32:02 -0400</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -39,25 +39,6 @@ Pas adaptée pour du jeu par contre&lt;/p&gt;
         <category>bureau</category>
         
         <category>electronique</category>
-        
-      </item>
-    
-      <item>
-        <title>Manteau d&apos;hiver pour homme</title>
-        <description>&lt;p&gt;Manteau d’hiver long. Marque Simons Djab.&lt;/p&gt;
-
-&lt;p&gt;Acheté en décembre 22 (a fait 2 hivers), il est super chaud et très confortable.&lt;/p&gt;
-
-&lt;p&gt;Plein de poches intérieures et extérieures, doublure synthétique 3M thinsulate.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/manteau/</link>
-        <guid isPermaLink="true">http://localhost:4000/manteau/</guid>
-        
-        
-        <category>vêtement</category>
-        
-        <category>hiver</category>
         
       </item>
     
@@ -132,24 +113,6 @@ ampoule rouge incluses&lt;/p&gt;
       </item>
     
       <item>
-        <title>Serveur Thinkserver de Lenovo</title>
-        <description>&lt;p&gt;Processeur Intel Xeon(R) E3-1225 3.2Ghz
-RAM : 16Go DDR3
-Disque dur de 3 To
-Idéal pour en faire un home server Linux ou Windows, je l’utilise comme serveur multimedia (Plex) et stockage réseau (NAS).&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/Server/</link>
-        <guid isPermaLink="true">http://localhost:4000/Server/</guid>
-        
-        
-        <category>bureau</category>
-        
-        <category>electronique</category>
-        
-      </item>
-    
-      <item>
         <title>Moniteur d&apos;ordinateur 17 pouces</title>
         <description>&lt;p&gt;LCD
 Type:	TFT Active Matrix SXGA LCD
@@ -209,23 +172,63 @@ Net:	4.2 kg&lt;/p&gt;
       </item>
     
       <item>
-        <title>vélo femme</title>
-        <description>&lt;p&gt;Vélo Norco Yorkville - Taille S (taille recommandée 153-163 cm)&lt;/p&gt;
+        <title>vélo hybride</title>
+        <description>&lt;p&gt;Vélo Giant Escape 2, taille M&lt;/p&gt;
 
 &lt;p&gt;Cadre et fourche en aluminium&lt;/p&gt;
 
-&lt;p&gt;3 plateaux, 7 pignons, dérailleur Shimano Tourney&lt;/p&gt;
+&lt;p&gt;Roues 700C&lt;/p&gt;
 
-&lt;p&gt;Quelques points de rouille sur les rayons des roues et sur quelques boulons du guidon mais le vélo est en bon état. On fera un petit tune up avant de le vendre.&lt;/p&gt;
+&lt;p&gt;Dérailleur Shimano Altus&lt;/p&gt;
+
+&lt;p&gt;Toujours bien entretenu, vient avec coffre arrière, garde-boue, sonnette, 2 cadenas, 2 pneus à clous en plus pour l’hiver. Pédales à clip + chaussures (pointure 9), mais on peut évidemment remettre des pédales standard à la place.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/velo-femme/</link>
-        <guid isPermaLink="true">http://localhost:4000/velo-femme/</guid>
+        <link>http://localhost:4000/velo-adulte-hybride/</link>
+        <guid isPermaLink="true">http://localhost:4000/velo-adulte-hybride/</guid>
         
         
         <category>sport</category>
         
         <category>loisir</category>
+        
+      </item>
+    
+      <item>
+        <title>table basse</title>
+        <description>&lt;p&gt;Longueur : 118cm
+Largeur : 78 cm&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/tablebasse/</link>
+        <guid isPermaLink="true">http://localhost:4000/tablebasse/</guid>
+        
+        
+        <category>salon</category>
+        
+        <category>meuble</category>
+        
+      </item>
+    
+      <item>
+        <title>table cuisine</title>
+        <description>&lt;p&gt;En bois, revêtement laminé blanc en surface, pieds en bouleau&lt;/p&gt;
+
+&lt;p&gt;Hauteur : 75cm&lt;/p&gt;
+
+&lt;p&gt;Sans rallonge : ronde de diamètre 115cm, taille idéale pour 4 personnes&lt;/p&gt;
+
+&lt;p&gt;Avec rallonge : ovale de 166cm x 115cm, taille idéale pour 6 personnes&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/table/</link>
+        <guid isPermaLink="true">http://localhost:4000/table/</guid>
+        
+        
+        <category>cuisine</category>
+        
+        <category>meuble</category>
         
       </item>
     
